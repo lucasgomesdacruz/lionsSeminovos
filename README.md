@@ -29,8 +29,6 @@ Para a prototipagem do projeto, utilizei o Figma, onde consegui criar um design 
 - **Sass**: Pré-processador CSS que permite escrever CSS de forma mais simples e modularizada.
 - **React Icons** e **Lucide Icons**: Bibliotecas de ícones otimizados para React.
 
-### 🛠️ Tecnologias usadas:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
 
 ### Benefícios de Utilizar Next.js
