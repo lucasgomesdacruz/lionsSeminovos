@@ -7,7 +7,7 @@ const Support = () => {
     return(
         <section className={styles.section}>
             <div className={styles.containerHero}>
-                <h2 className={styles.title}>Nossos parceiros possuem todo suportenecessário para alcançar o sucesso nas vendas</h2>
+                <h2 className={styles.title}>Nossos parceiros possuem todo suporte necessário para alcançar o sucesso nas vendas</h2>
 
                 <p className={styles.subtitle}>Contamos com uma equipe totalmente especializada em vendas que acompanha cada etapa para a realização de sua venda.</p>
 
