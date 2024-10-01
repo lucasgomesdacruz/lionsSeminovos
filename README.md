@@ -1,5 +1,6 @@
 # Lions | Concessionária 🚗
-![image](https://github.com/user-attachments/assets/bda71c8c-72de-4100-94c3-743120f8d061)
+![image](https://github.com/user-attachments/assets/24c5003b-76d2-4422-bfc2-e6033c54027a)
+
 
 
 
