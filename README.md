@@ -1,4 +1,4 @@
-# Projeto Lions Seminovos 🚀 
+# Lions | Concessionária 🚗
 ![image](https://github.com/user-attachments/assets/0ac0e6cf-7309-4d8d-9b4a-136c2ef0d8bf)
 
 
@@ -37,10 +37,11 @@ Para a prototipagem do projeto, utilizei o Figma, onde consegui criar um design 
 - Suporte Completo a API Routes: Permite a criação de APIs de maneira simples e rápida sem a necessidade de configurar um backend separado. <br>
 
 ### Funcionalidades
-- Página inicial com informações sobre a concessionária. <br>
-- Seções de benefícios, suporte ao cliente e categorias de veículos. <br>
-- Navegação com menu responsivo e ícones interativos. <br>
-- Integração com WhatsApp para contato direto com a equipe de vendas. <br>
+- Página Inicial: A página inicial apresenta informações sobre a concessionária, destacando sua missão, visão e valores. <br>
+- Seções de Benefícios, Suporte ao Cliente e Categorias de Veículos: Essas seções fornecem detalhes sobre as vantagens de adquirir um veículo na concessionária, informações úteis para o cliente e uma lista de categorias de veículos disponíveis. <br>
+- Navegação com Menu Responsivo e Ícones Interativos: O menu foi projetado para ser responsivo, garantindo uma experiência de navegação fluida em diferentes dispositivos. Os ícones interativos melhoram a usabilidade e a estética do site. <br>
+- Integração com WhatsApp: Ofereci a funcionalidade de contato direto com a equipe de vendas através do WhatsApp, facilitando a comunicação e a resolução de dúvidas para os clientes. <br>
+- Menu Hambúrguer: O menu hambúrguer foi implementado para otimizar o espaço na tela, especialmente em dispositivos móveis, permitindo uma navegação simples  <br>
 
 ### 📁 Instalação e Uso:
 1 - Clone o repositório: Git clone `(https://github.com/lucasgomesdacruz/lionsSeminovos.git)` <br>
