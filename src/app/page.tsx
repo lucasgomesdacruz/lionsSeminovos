@@ -10,7 +10,7 @@ import styles from "./styles.module.scss";
 export default function Home() {
 
   return (
-      <main className={styles.titulo}>
+      <main className={styles.main}>
           <Hero />
           <Benefits />
           <Support />
