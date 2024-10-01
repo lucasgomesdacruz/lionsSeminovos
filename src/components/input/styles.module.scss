@@ -1,0 +1,37 @@
+.inputContainer {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    width: 220px;
+    border: 5px;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.inputContainer input {
+    width: 200px;
+    height: 23px;
+}
+
+.inputField { 
+    padding: 0.5rem; 
+    border: 0px; 
+    border-radius: 0.25rem 0rem 0rem 0.25rem; 
+    outline: none; 
+}
+
+.searchButton {
+    background-color: #fff;
+    border: none; 
+    cursor: pointer; 
+}
+
+@media (max-width: 450px) {
+    .inputContainer {
+        width: 150px;
+    }
+    
+    .inputContainer input {
+        width: 120px;
+    }
+}
