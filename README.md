@@ -12,6 +12,9 @@ Eu escolhi usar o Next.js por sua eficiência na construção de aplicações we
 
 Para a prototipagem do projeto, utilizei o Figma, onde consegui criar um design visual que respeita as cores originais da empresa. Essa abordagem não apenas garantiu a consistência da identidade visual, mas também facilitou a comunicação das ideias e a visualização do layout antes de iniciar a implementação no Next.js. <br>
 
+![image](https://github.com/user-attachments/assets/e5574083-d205-4fe7-9fa1-60dbd372c094)
+
+
 ## 🚀 Funcionalidades e mais:
 • Envio de Email, utilizando o metodo post juntamente com formspree.<br>
 • Scroll Suave para ir a cada seção do site<br>
