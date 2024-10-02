@@ -1,5 +1,7 @@
 # Lions | Concessionária 🚗
-![image](https://github.com/user-attachments/assets/0ac0e6cf-7309-4d8d-9b4a-136c2ef0d8bf)
+![image](https://github.com/user-attachments/assets/24c5003b-76d2-4422-bfc2-e6033c54027a)
+
+
 
 
 
@@ -13,15 +15,6 @@ Eu escolhi usar o Next.js por sua eficiência na construção de aplicações we
 Para a prototipagem do projeto, utilizei o Figma, onde consegui criar um design visual que respeita as cores originais da empresa. Essa abordagem não apenas garantiu a consistência da identidade visual, mas também facilitou a comunicação das ideias e a visualização do layout antes de iniciar a implementação no Next.js. <br>
 
 ![image](https://github.com/user-attachments/assets/e5574083-d205-4fe7-9fa1-60dbd372c094)
-
-
-## 🚀 Funcionalidades e mais:
-• Envio de Email, utilizando o metodo post juntamente com formspree.<br>
-• Scroll Suave para ir a cada seção do site<br>
-• Menu hamburguer para melhor experiência do usuário<br>
-• Visulização dos projetos em destaques.<br>
-• Biblioteca Animate.Css e wow.js para animações fluidas<br>
-• Biblioteca font awesome para ícones<br>
 
 ### 🛠️ Tecnologias Utilizadas
 - **Next.js**: Framework de React com suporte para renderização no lado do servidor e geração de sites estáticos.
