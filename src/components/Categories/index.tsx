@@ -84,7 +84,7 @@ const Categories = () => {
                                 width={60}
                             />
                         </div>
-                        <h3 className={styles.categories__name}>BRONZE</h3>
+                        <h3 className={styles.categories__name}>OURO</h3>
                         <div className={styles.categories__content}>
                             <p className={styles.categories__description}><FaCheck fontSize={20} color="#000000"/>Comissão máxima</p>
                             <p className={styles.categories__description}><FaCheck fontSize={20} color="#000000"/>Acesso exclusivo a leads</p>
